@@ -9,7 +9,7 @@ Profesores:
 ## Tabla de Contenidos
 
 - [¿Que es Axie Infinity?](#que-es-axie-infinity)
-  - [¿Qué es Play to Earn?](#que-es-play-to-earn)
+  - [¿Qué es Play to Earn?](#qué-es-play-to-earn)
   - [Historia de Axie Infinity](#historia-de-axie-infinity)
   - [¿Qué necesitas para empezar a jugar Axie Infinity?](#qué-necesitas-para-empezar-a-jugar-axie-infinity)
 - [Primeros pasos en Axie Infinity](#primeros-pasos-en-axie-infinity)
@@ -17,7 +17,7 @@ Profesores:
   - [Wallets](#wallets)
   - [Registrarse en Axie Infinity](#registrarse-en-axie-infinity)
   - [Comprar los primeros Axies](#comprar-los-primeros-axies)
-- [¿Cómo jugar Axie Infinity?](#como-jugar-axie-infinity)
+- [¿Cómo jugar Axie Infinity?](#comó-jugar-axie-infinity)
   - [Atributos de axies](#atributos-de-axies)
   - [Rarezas y Lands](#rarezas-y-lands)
   - [Reproduciendo Axies](#reproduciendo-axies)
@@ -33,7 +33,7 @@ Es un juego de comercio y lucha que permite a los jugadores recolectar, criar, l
 
 Sitio web: https://axieinfinity.com/
 
-[![0.5](https://github.com/hackmilo/Notas---Curso-Introduccion-Axie-Infinity/blob/main/img/0.5.png?raw=true "0.5")](https://github.com/hackmilo/Notas---Curso-Introduccion-Axie-Infinity/blob/main/img/0.5.png?raw=true "0.5")
+[![00](https://github.com/hackmilo/Notas---Curso-Introduccion-Axie-Infinity/blob/main/img/00.png?raw=true "00")](https://github.com/hackmilo/Notas---Curso-Introduccion-Axie-Infinity/blob/main/img/00.png?raw=true "00")
 
 [![1](https://github.com/hackmilo/Notas---Curso-Introduccion-Axie-Infinity/blob/main/img/1.png?raw=true "1")](https://github.com/hackmilo/Notas---Curso-Introduccion-Axie-Infinity/blob/main/img/1.png?raw=true "1")
 

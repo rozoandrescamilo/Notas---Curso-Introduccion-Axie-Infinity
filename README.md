@@ -1,7 +1,7 @@
-# Curso de Introducción a Axie Infinity
+# Notas del Curso de Introducción a Axie Infinity
 
 Profesores: 
-> - Héctor Barrios / Growth & Operations Analyst en Binance
+> - Héctor Barrios / Growth & Operations Analyst en Binance P2P
 > - Angela Ocando / Course Director en Platzi
 
 ![](https://static.platzi.com/media/avatars/Platzi-f730e65b-e92b-44d3-81c0-5c59c4dc4658.png) ![](https://static.platzi.com/media/learningpath/badges/29fa8885-7536-44ba-8aea-7b32c8e39cc8.jpg) ![](https://static.platzi.com/media/achievements/piezas-axie-infinity_badge-6f58eac3-bd62-4b9f-90ae-94a02f0cd154.png)
@@ -18,6 +18,12 @@ Profesores:
   - [Registrarse en Axie Infinity](#registrarse-en-axie-infinity)
   - [Comprar los primeros Axies](#comprar-los-primeros-axies)
 - [¿Cómo jugar Axie Infinity?](#como-jugar-axie-infinity)
+  - [Atributos de axies](#atributos-de-axies)
+  - [Rarezas y Lands](#rarezas-y-lands)
+  - [Reproduciendo Axies](#reproduciendo-axies)
+  - [Jugando en modo aventura y arena](#jugando-en-modo-aventura-y-arena)
+  - [Monetizando con Axie Infinity](#monetizando-con-axie-infinity)
+  - [Ingresos pasivos y gobernanza: staking de AXS](#ingresos-pasivos-y-gobernanza-staking-de-axs)
 
 # ¿Que es Axie Infinity?
 
@@ -26,6 +32,8 @@ Profesores:
 Es un juego de comercio y lucha que permite a los jugadores recolectar, criar, luchar e intercambiar criaturas conocidas como “axies”, que se digitalizan como NFT (token no fungible). Los nuevos jugadores deben tener al menos tres axies para poder jugar. A partir de enero de 2019 se pueden comprar tierras virtuales (también en forma de NFT).
 
 Sitio web: https://axieinfinity.com/
+
+[![0.5](https://github.com/hackmilo/Notas---Curso-Introduccion-Axie-Infinity/blob/main/img/0.5.png?raw=true "0.5")](https://github.com/hackmilo/Notas---Curso-Introduccion-Axie-Infinity/blob/main/img/0.5.png?raw=true "0.5")
 
 [![1](https://github.com/hackmilo/Notas---Curso-Introduccion-Axie-Infinity/blob/main/img/1.png?raw=true "1")](https://github.com/hackmilo/Notas---Curso-Introduccion-Axie-Infinity/blob/main/img/1.png?raw=true "1")
 

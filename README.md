@@ -24,6 +24,7 @@ Profesores:
   - [Jugando en modo aventura y arena](#jugando-en-modo-aventura-y-arena)
   - [Monetizando con Axie Infinity](#monetizando-con-axie-infinity)
   - [Ingresos pasivos y gobernanza: staking de AXS](#ingresos-pasivos-y-gobernanza-staking-de-axs)
+- [Certificado](#certificado)
 
 # ¿Que es Axie Infinity?
 
@@ -364,3 +365,7 @@ Entre más AXS se tenga, corresponderá un porcentaje mayor de ese total. Por el
 En un futuro se podrá acceder a más opciones que permitirán participar en las decisiones para implementar nuevas funcionalidades pues los tokens equivalen a un porcentaje de participación en la gobernanza del juego.
 
 Si se tiene algunas dudas con los conceptos te invito a descargar el [Glosario DeFi,](https://static.platzi.com/media/public/uploads/glosariocursodefi_77b85a2f-4171-4284-bc31-17a996993d13.pdf "Glosario DeFi,") en donde se encontrará muchos de los conceptos vistos a lo largo del curso como APR, APY, TVL, token y más.
+
+# Certificado
+
+[![35](https://github.com/hackmilo/Notas---Curso-Introduccion-Axie-Infinity/blob/main/img/35.png?raw=true "35")](https://github.com/hackmilo/Notas---Curso-Introduccion-Axie-Infinity/blob/main/img/35.png?raw=true "35")
